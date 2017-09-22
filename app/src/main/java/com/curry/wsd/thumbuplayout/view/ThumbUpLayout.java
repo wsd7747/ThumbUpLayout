@@ -33,7 +33,6 @@ import java.util.Random;
  * Created by WuSongDa on 2017/9/21.
  */
 public class ThumbUpLayout extends RelativeLayout {
-
     /**
      * 桃心
      */
