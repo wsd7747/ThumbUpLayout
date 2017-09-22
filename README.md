@@ -2,7 +2,7 @@
 仿直播间点赞向上飘散效果
 
 # 来一波效果图：
-GIF.gif
+![](https://github.com/wsd7747/ThumbUpLayout/blob/master/GIF.gif)
 
 # 示例：
   <com.curry.wsd.thumbuplayout.view.ThumbUpLayout
